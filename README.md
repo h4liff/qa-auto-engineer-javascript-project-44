@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 brain-even:
-<script src="https://asciinema.org/a/lirEaap88zUOBMB8iza0bdX0e.js" id="asciicast-lirEaap88zUOBMB8iza0bdX0e" async="true"></script>
+<a href="https://asciinema.org/a/lirEaap88zUOBMB8iza0bdX0e" target="_blank"><img src="https://asciinema.org/a/lirEaap88zUOBMB8iza0bdX0e.svg" /></a>
 
 [![Actions Status](https://github.com/h4liff/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/h4liff/qa-auto-engineer-javascript-project-44/actions)
 
