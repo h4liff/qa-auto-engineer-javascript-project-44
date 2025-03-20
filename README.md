@@ -1,5 +1,6 @@
 ### Brain-games
 brain-even:
+
 <a href="https://asciinema.org/a/lirEaap88zUOBMB8iza0bdX0e" target="_blank"><img src="https://asciinema.org/a/lirEaap88zUOBMB8iza0bdX0e.svg" /></a>
 
 Hexlet tests and linter status:
