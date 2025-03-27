@@ -19,7 +19,7 @@ const gcd = (a, b) => {
 const getQuestionAndAnswer = () => {
   const num1 = getRandomNumber(1, 100);
   const num2 = getRandomNumber(1, 100);
-  const question = `${num1}, ${num2}`;
+  const question = `${num1} ${num2}`;
   const correctAnswer = String(gcd(num1, num2));
   return [question, correctAnswer];
 };
