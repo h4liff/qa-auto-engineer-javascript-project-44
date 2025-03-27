@@ -15,6 +15,10 @@ brain-progression:
 
 [![asciicast](https://asciinema.org/a/yz74XF6UNvHy5UQpUQnWZ55lL.svg)](https://asciinema.org/a/yz74XF6UNvHy5UQpUQnWZ55lL)
 
+brain-prime:
+
+[![asciicast](https://asciinema.org/a/2frhQ7wg5hYUysRFlfwHz9wma.svg)](https://asciinema.org/a/2frhQ7wg5hYUysRFlfwHz9wma)
+
 
 
 Hexlet tests and linter status:
