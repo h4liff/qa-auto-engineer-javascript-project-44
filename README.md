@@ -11,6 +11,11 @@ brain-gcd:
 
 [![asciicast](https://asciinema.org/a/uj2f3yXVPJUGJvUkNCqTlwhHm.svg)](https://asciinema.org/a/uj2f3yXVPJUGJvUkNCqTlwhHm)
 
+brain-progression:
+
+[![asciicast](https://asciinema.org/a/yz74XF6UNvHy5UQpUQnWZ55lL.svg)](https://asciinema.org/a/yz74XF6UNvHy5UQpUQnWZ55lL)
+
+
 
 Hexlet tests and linter status:
 [![Actions Status](https://github.com/h4liff/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/h4liff/qa-auto-engineer-javascript-project-44/actions)
